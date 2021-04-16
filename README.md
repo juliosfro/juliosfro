@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
-## Contact's  
+## Contacts  
   <div style="display: inline_block">
   <a href = "mailto: juliosfro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliosfro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,7 +34,7 @@
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
 </p>
 
-### Abstract
+## About
 
 - <p> :books: &nbsp  Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). </p>
 - <p> ❤️ &nbsp  Apaixonado em especial pela linguagem de programação Java. </p>
