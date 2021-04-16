@@ -34,8 +34,8 @@
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >
 </p>
 
-### Abstract
+### Sobre mim
 
 - <p> :books: Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). </p>
-- <p> ❤️   Apaixonado em especial pela linguagem de programação Java. </p>
-- 🖥️  Possuo interesses em tudo que é relacionado a tecnologia e automação.
+- <p> ❤️ Apaixonado em especial pela linguagem de programação Java. </p>
+- <p> 🖥️  Possuo interesses em tudo que é relacionado a tecnologia e automação. </p>
