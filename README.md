@@ -39,4 +39,4 @@
 - <p> :books: &nbsp  Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). </p>
 - <p> ❤️ &nbsp  Apaixonado em especial pela linguagem de programação Java. </p>
 - <p> 🖥️ &nbsp  Possuo interesses em tudo que é relacionado a tecnologia e automação. </p>
-- <p> 🍻&nbsp  Adoro uma cervejinha nos finais de semana. </p>
+- <p> 🍻 &nbsp  Adoro tomar cerveja nos finais de semana. </p>
