@@ -36,6 +36,6 @@
 
 ### Abstract
 
--  <p> :books: Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). </p>
-- ❤️   Apaixonado em especial pela linguagem de programação Java.
+- <p> :books: Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). </p>
+- <p> ❤️   Apaixonado em especial pela linguagem de programação Java. </p>
 - 🖥️  Possuo interesses em tudo que é relacionado a tecnologia e automação.
