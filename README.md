@@ -36,6 +36,6 @@
 
 ### Sobre mim
 
-- <p> :books: Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). </p>
-- <p> ❤️ Apaixonado em especial pela linguagem de programação Java. </p>
-- <p> 🖥️  Possuo interesses em tudo que é relacionado a tecnologia e automação. </p>
+- <p> :books: - Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). </p>
+- <p> ❤️ - Apaixonado em especial pela linguagem de programação Java. </p>
+- <p> 🖥️ - Possuo interesses em tudo que é relacionado a tecnologia e automação. </p>
