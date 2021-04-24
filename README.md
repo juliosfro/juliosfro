@@ -42,6 +42,7 @@
   - [Desafio DB1 - algoritmo para retornar dados conforme o nome da cidade digitado](https://github.com/juliosfro/desafio_db1_start_app_geografia)
 - Java / Android
   - [Aplicativo para calculo do indice da massa corporal IMC](https://github.com/juliosfro/app_imc)
+  - [Aplicativo que implementa os conceitos de CardView e RecyclerView para exibir fotos e dados demográficos sobre determinada cidade](https://github.com/juliosfro/app_ibge)
 </div>
 
 ## Skills
