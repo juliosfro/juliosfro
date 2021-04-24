@@ -14,6 +14,7 @@
   <a href="https://www.facebook.com/juliosfro/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/juliosfro" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://t.me/juliosfro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/8481288894395960" target="_blank"><img src="https://img.shields.io/badge/Lattes-2CA5E0?style=for-the-badge&logo=lattes&logoColor=white" target="_blank"></a>
  </div>
 
 ## Skills
