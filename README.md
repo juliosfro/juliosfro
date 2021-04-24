@@ -35,6 +35,7 @@
 - Angular / Typescript
   - [Passaro Urbano](https://github.com/juliosfro/projeto_passaro_urbano_angular_9)
   - [Front-end SPA cadastro e controle Auth de usuarios integrado com Api RestFull em Java](https://github.com/juliosfro/cadastro-de-usuarios-com-angular-9)
+  - [Aplicação front-end angular para cadastro, consulta, alteração e exclusão de produtos integrada com o Json-Server](https://github.com/juliosfro/cadastro-de-produtos-com-angular-9)
 - Java
   - [Api Rest Auth com JWT / SPRING / POSTGRES](https://github.com/juliosfro/api_gerenciamento_login_java_spring_boot_rest)
   - [Conexão com banco de dados Oracle via JDBC](https://github.com/juliosfro/javajee-capitulo3)
