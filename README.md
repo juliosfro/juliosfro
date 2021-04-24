@@ -44,6 +44,8 @@
   - [Aplicativo para calculo do indice da massa corporal IMC](https://github.com/juliosfro/app_imc)
   - [Aplicativo que implementa os conceitos de CardView e RecyclerView para exibir fotos e dados demográficos sobre determinada cidade](https://github.com/juliosfro/app_ibge)
   - [Exemplo de passagem de parâmetros entre activities](https://github.com/juliosfro/passagemdeparametrosentreactivities)
+- Javascript
+  - [Exemplo de extração de informações com as funções filter e reduce](https://github.com/juliosfro/jsonnojavascript)
 - PHP
   - [Trabalhando com arrays associativos e com as funções filter e reduce](https://github.com/juliosfro/filter_reduce_php)
   - [Arrays com funções filter e map](https://github.com/juliosfro/jsonnophp)
