@@ -5,23 +5,29 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 
-## REDES SOCIAIS 
+## Redes Sociais
   <div style="display: inline_block">
+   <a href="https://www.facebook.com/juliosfro/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/juliosfro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juliosfro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCSzUVqVLFflM4zbk4EtlYcg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/juliosfro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/juliosfro/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/juliosfro" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/juliosfro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/8481288894395960" target="_blank"><img src="https://img.shields.io/badge/LATTES-FFA500?style=for-the-badge&logo=nullsr&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCSzUVqVLFflM4zbk4EtlYcg" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23333?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 </div>
 
-## E-MAIL
+## Contatos
 
 <div style="display: inline_block">
    <a href = "mailto: juliosfro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"             target="_blank"></a>
+   <a href="https://t.me/juliosfro" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
+
+## Curriculum 
+
+<div style="display: inline_block">
+  <a href="http://lattes.cnpq.br/8481288894395960" target="_blank"><img src="https://img.shields.io/badge/LATTES-FFA500?style=for-the-badge&logo=nullsr&logoColor=white" target="_blank"></a>
+</div>
+
 
 ## Skills
 <p align="center">
