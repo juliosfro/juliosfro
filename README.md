@@ -37,6 +37,7 @@
 - Java
   - [Api Rest Auth com JWT / SPRING / POSTGRES](https://github.com/juliosfro/api_gerenciamento_login_java_spring_boot_rest)
   - [Conexão com banco de dados Oracle via JDBC](https://github.com/juliosfro/javajee-capitulo3)
+  - [Desafio DB1 - algoritmo para retornar dados conforme o nome da cidade digitado](https://github.com/juliosfro/desafio_db1_start_app_geografia)
 </div>
 
 ## Skills
