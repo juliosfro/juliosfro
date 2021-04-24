@@ -59,7 +59,7 @@
 ## About
 
 - <p> :books: &nbsp  Graduado em análise e desenvolvimento de sistemas pela Unipar (Universidade Paranaense). (2018-2020) </p>
-- <p> <img height="20" width="16" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> &nbsp Pós graduando em Full Stack Java Developer pelo Centro de Inovação VincIT (UNICIV). (2021-2021) </p>
+- <p> <img height="27" width="17.5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"> &nbsp Pós graduando em Full Stack Java Developer pelo Centro de Inovação VincIT (UNICIV). (2021-2021) </p>
 - <p> ❤️ &nbsp  Apaixonado em especial pela linguagem de programação Java. </p>
 - <p> 🖥️ &nbsp  Possuo interesses em tudo que é relacionado a tecnologia e automação. </p>
 - <p> 🍻 &nbsp  Adoro tomar cerveja nos finais de semana. </p>
