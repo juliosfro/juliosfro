@@ -28,6 +28,11 @@
   <a href="http://lattes.cnpq.br/8481288894395960" target="_blank"><img src="https://img.shields.io/badge/LATTES-FFA500?style=for-the-badge&logo=nullsr&logoColor=white" target="_blank"></a>
 </div>
 
+## Projetos
+
+<div style="display: inline_block">
+ <ul> Passaro Urbano </ul>
+</div>
 
 ## Skills
 <p align="center">
