@@ -31,7 +31,15 @@
 ## Projetos
 
 <div style="display: inline_block">
- <ul> Passaro Urbano </ul>
+ 
+- Vanilla Js
+  - [Passaro Urbano](https://github.com/juliosfro/projeto_passaro_urbano_angular_9)
+- Angular / Typescript
+  - [Passaro Urbano](https://github.com/juliosfro/projeto_passaro_urbano_angular_9)
+- Java
+  - [Passaro Urbano](https://github.com/juliosfro/projeto_passaro_urbano_angular_9)
+- NodeJs / GraphQL / Typescript
+  - [Passaro Urbano](https://github.com/juliosfro/projeto_passaro_urbano_angular_9)
 </div>
 
 ## Skills
