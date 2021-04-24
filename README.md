@@ -36,6 +36,7 @@
   - [Passaro Urbano](https://github.com/juliosfro/projeto_passaro_urbano_angular_9)
 - Java
   - [Api Rest Auth com JWT / SPRING / POSTGRES](https://github.com/juliosfro/api_gerenciamento_login_java_spring_boot_rest)
+  - [Conexão com banco de dados Oracle via JDBC](https://github.com/juliosfro/javajee-capitulo3)
 </div>
 
 ## Skills
