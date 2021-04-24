@@ -43,6 +43,7 @@
 - Java / Android
   - [Aplicativo para calculo do indice da massa corporal IMC](https://github.com/juliosfro/app_imc)
   - [Aplicativo que implementa os conceitos de CardView e RecyclerView para exibir fotos e dados demográficos sobre determinada cidade](https://github.com/juliosfro/app_ibge)
+  - [Exemplo de passagem de parâmetros entre activities](https://github.com/juliosfro/passagemdeparametrosentreactivities)
 </div>
 
 ## Skills
