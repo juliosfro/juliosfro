@@ -1,9 +1,4 @@
 ## Olá, seja bem-vindo ao meu perfil no github.
- <div>
-  <a href="https://github.com/juliosfro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliosfro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=8&theme=dracula"/>
-<div>
 
 ## Redes Sociais
   <div style="display: inline_block">
